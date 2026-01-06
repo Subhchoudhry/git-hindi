@@ -2,5 +2,5 @@
 
 ## Install
 
-this is some installation instructions changed by ne
+this is some installation instructions changed by me
 
